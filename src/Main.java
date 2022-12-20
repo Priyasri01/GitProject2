@@ -1,10 +1,9 @@
 public class Main {
-    public static void main(String[] args) {
 
-        System.out.println("Hello world!");
+    public static void main(String[] args){
 
-        System.out.println( "peter england");
-
-        System.out.println("This is my new update");
+        System.out.println("hello world");
+        System.out.println("hey i fix the jdk error");
+        System.out.println("helllo world 3");
     }
 }
